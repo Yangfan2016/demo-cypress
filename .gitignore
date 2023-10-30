@@ -48,8 +48,6 @@ script/node_modules
 # runtime
 runtime-*
 
-# log 业务日志
-team-node-log/*
 
 cypress.merge.json
 cypress-cucumber-preprocessor.config.js
