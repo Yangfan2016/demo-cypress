@@ -1,0 +1,16 @@
+{
+  "name": "demo-cypress",
+  "version": "2.4.5",
+  "description": "",
+  "author": "yf",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "c": "cypress open"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.6",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.17.4"
+  }
+}

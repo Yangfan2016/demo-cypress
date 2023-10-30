@@ -1,0 +1,47 @@
+{
+  // "editor.formatOnSave": true,
+  // "[javascript]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[json]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[javascriptreact]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[typescript]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[typescriptreact]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[html]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[dotenv]": {
+  //   "editor.formatOnSave": false,
+  //   "editor.defaultFormatter": "foxundermoon.shell-format"
+  // },
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": true
+  // },
+  // "jumpToAliasFile.alias": {
+  //   "react-native": "react-native-web"
+  // },
+  // "cSpell.words": [
+  //   "clsx",
+  //   "tkit"
+  // ],
+  "cucumberautocomplete.steps": [
+    "cypress-client/support/step_definitions/*.ts"
+  ],
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "cucumberautocomplete.strictGherkinValidation": true,
+  "cucumberautocomplete.smartSnippets": true,
+  "cucumberautocomplete.stepsInvariants": true,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  }
+}
